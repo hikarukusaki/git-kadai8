@@ -7,5 +7,7 @@ int main(void) {
     printf("sum = %d\n", a + b);
     printf("difference = %d\n", a - b);
 
+    printf("max = %d\n", (a > b) ? a : b);
+
     return 0;
 }

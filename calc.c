@@ -9,5 +9,7 @@ int main(void) {
 
     printf("product = %d\n", a * b);
 
+    printf("quotient = %d\n", a / b);
+
     return 0;
 }

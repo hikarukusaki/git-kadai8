@@ -5,7 +5,7 @@ int main(void) {
     int b = 5;
 
     printf("sum = %d\n", a + b);
+    printf("difference = %d\n", a - b);
 
     return 0;
 }
-
